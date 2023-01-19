@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Amit Kumar Yadav
-- 👀 I’m Frontend Developer
 - 
 
 <!---
